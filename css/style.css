@@ -144,7 +144,7 @@ body {
   text-align: center;
   align-items: center;
   margin-left: 30%;
-  margin-top: 40%;
+  margin-top: 38%;
 }
 .work-title h2 {
   font-size: 50px;
@@ -203,7 +203,7 @@ body {
   background-color: rgb(223, 218, 166);
 }
 .line {
-  height: 5px;
+  height: 3px;
   max-width: 200px;
   margin: 15px auto;
   border-radius: 5px 5px;
