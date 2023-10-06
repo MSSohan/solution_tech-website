@@ -222,7 +222,7 @@ body {
 }
 .client-title h2 {
   text-align: center;
-  width: 500px;
+  width: 400px;
   font-size: 50px;
   padding: 20px;
   border: 2px solid #fed330;
@@ -234,13 +234,13 @@ body {
 .client-logo {
   display: grid;
   grid-template-columns: auto auto auto;
-  margin: 100px;
+  margin: 60px;
   justify-content: center;
 }
 .client-logo img {
-  height: 270px;
-  width: 470px;
-  margin: 50px;
+  height: 250px;
+  width: 400px;
+  margin: 10px;
   padding: 65px;
 }
 .contact-section {
