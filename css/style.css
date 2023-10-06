@@ -143,17 +143,17 @@ body {
 .work-title {
   text-align: center;
   align-items: center;
-  margin-left: 28%;
-  margin-top: 35%;
+  margin-left: 30%;
+  margin-top: 40%;
 }
 .work-title h2 {
   font-size: 50px;
   border: 2px solid darkslateblue;
   border-radius: 30px;
-  max-width: 500px;
+  max-width: 400px;
   /* background-color: #a4b0be; */
   background-color: transparent;
-  padding: 20px;
+  padding: 10px;
   /* color: #2f3542; */
   color: #f64f59;
 }
